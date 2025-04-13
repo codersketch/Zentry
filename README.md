@@ -7,13 +7,6 @@ Just a single-page frontend demo to showcase interactive, animated UI design.
 
 ---
 
-<!-- > Screenshots coming soon... -->
-## 🖼️ Preview
-
-<video autoplay loop muted playsinline width="100%" style="border-radius: 10px;">
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 ## ⚙️ Tech Stack
 
 - **React.js** – UI library for building the component structure
