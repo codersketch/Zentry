@@ -11,7 +11,7 @@ Just a single-page frontend demo to showcase interactive, animated UI design.
 ## 🖼️ Preview
 
 <video autoplay loop muted playsinline width="100%" style="border-radius: 10px;">
-  <source src="https://raw.githubusercontent.com/codersketch/Zentry/main/public/videos/demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 ## ⚙️ Tech Stack
