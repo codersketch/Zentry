@@ -26,16 +26,22 @@ Just a single-page frontend demo to showcase interactive, animated UI design.
 
 ## 🧪 Installation
 
-```bash
 # Clone the repo
+```bash
 git clone https://github.com/codersketch/Zentry.git
+```
 
 # Go into the project folder
+```bash
 cd zentry
+```
 
 # Install dependencies
+```bash
 npm install
+```
 
 # Run the development server
+```bash
 npm start
-modify
+```
